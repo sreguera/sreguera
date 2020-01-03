@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Functional Programming Fundamentals Readings"
+---
+
 Readings from the course [C9 Lectures: Erik Meijer - Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals).
 
 ## Chapter 1
@@ -17,7 +22,7 @@ Readings from the course [C9 Lectures: Erik Meijer - Functional Programming Fund
 
 ## Chapter 8
 
-* **Papers**  
+* **Papers from Richard Bird**  
 *Richard Bird*  
 [**Link**](https://www.cs.ox.ac.uk/people/publications/type/Richard.Bird.html)
 
