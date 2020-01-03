@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Free Programming and CS books"
+title: "Free Programming and CS Books"
 ---
+
+# Free Programming and CS Books
 
 * **The Art of Prolog: Advanced Programming Techniques, Second Edition**  
 *Leon S. Sterling and Ehud Y. Shapiro*  
@@ -18,8 +20,6 @@ title: "Free Programming and CS books"
 * **Building Problem Solvers**  
 *Kenneth D. Forbus and Johan de Kleer*  
 [**Link**](http://www.qrg.northwestern.edu/bps/readme.html)
-
-
 
 * **The Haskell Road to Logic, Maths and Programming**  
 *Kees Doets and Jan van Ejck*  

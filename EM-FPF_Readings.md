@@ -3,6 +3,8 @@ layout: default
 title: "Functional Programming Fundamentals Readings"
 ---
 
+# Functional Programming Fundamentals - Readings
+
 Readings from the course [C9 Lectures: Erik Meijer - Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals).
 
 ## Chapter 1
