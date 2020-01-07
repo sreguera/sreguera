@@ -3,6 +3,7 @@ Hi
 ## Projects
 
 * [Small Scale Experimental Machine (SSEM) Emulator](https://github.com/sreguera/SSEM)
+* [derp, a Derived Parameters Interpreter](https://github.com/sreguera/derp)
 
 ## Readings
 
