@@ -1,8 +1,8 @@
 ## Projects
 
-* [Small Scale Experimental Machine (SSEM) Emulator](https://github.com/sreguera/SSEM)
-* [derp, a Derived Parameters Interpreter](https://github.com/sreguera/derp)
-* [tuntun, a Transputer Emulator](https://github.com/sreguera/tuntun)
+* [Small Scale Experimental Machine (SSEM) emulator](https://github.com/sreguera/SSEM)
+* [derp, a derived parameters interpreter](https://github.com/sreguera/derp)
+* [tuntun, a transputer emulator](https://github.com/sreguera/tuntun) (in progress)
 
 ## Readings
 
