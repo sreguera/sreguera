@@ -68,3 +68,8 @@ title: "Free Programming and CS Books"
 * **Automated Planning and Acting**  
 *Malik Ghallab, Dana Nau and Paolo Traverso*  
 [**Link**](http://projects.laas.fr/planning/)
+
+* **The Implementation of Functional Programming Languages**  
+*Simon L. Peyton Jones*  
+[**Link**](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf)
+
