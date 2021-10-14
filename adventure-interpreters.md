@@ -4,7 +4,7 @@
 * 1958
     * **PL** John McCarthy releases [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 * 1964
-    * **PL** John G. Kemeny and Thomas E. Kurtz and release [BASIC](https://en.wikipedia.org/wiki/BASIC).
+    * **PL** John G. Kemeny and Thomas E. Kurtz release [BASIC](https://en.wikipedia.org/wiki/BASIC).
 * 1966
     * **HW** DEC releases the [PDP-10](https://en.wikipedia.org/wiki/PDP-10) mainframe computer.
 * 1976
@@ -14,31 +14,50 @@
     * **GM** Anderson, Blank, Lebling and Daniels release [Zork](https://en.wikipedia.org/wiki/Zork) text adeventure on the PDP-10, written in [MDL](https://en.wikipedia.org/wiki/MDL_(programming_language)), a Lisp variant.
     * **HW** Jun. Apple releases its [Apple II](https://en.wikipedia.org/wiki/Apple_II_series#Apple_II) 8 bit home computer.
     * **HW** Aug. Tandy releases its [TRS-80 Model I](https://en.wikipedia.org/wiki/TRS-80) 8 bit home computer.
+* 1978
+    * **GM** Scott Adams releases [Adventureland](https://en.wikipedia.org/wiki/Adventureland_(video_game)), a text adventure, scaled down version of the Colossal Cave, for the TRS-80.
 * 1979
     * **HW** Nov. Atari releases its [Atari 400 and 800](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8 bit home computers.
+* 1980
+    * **AR** Jul. Scott Adams publishes [Adventureland](https://archive.org/details/softside-magazine-22/page/n35/mode/2up?view=theater), the data and interpreter for his game.
+    Adams, Scott (July 1980). "Adventureland". SoftSide. p. 36.
 * 1981
     * **HW** Mar. Sinclair releases its [ZX81](https://en.wikipedia.org/wiki/ZX81) 8 bit home computer.
     * **HW** Aug. IBM releases its [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer) 16 bit personal computer. 
 * 1982
     * **HW** Apr. Sinclair releases its [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) 8 bit home computer.
     * **HW** Aug. Commodore releases its [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) 8 bit home computer.
+    * **GM** Nov. Melbourne House releases [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(1982_video_game)) text adventure.
 * 1983
-    * **GC** Dec. Gilsoft releases its [The Quill](https://en.wikipedia.org/wiki/The_Quill_(software)) text adventure writing system for the ZX Spectrum, later ported to many other home computers.
+    * **GC** Dec. Gilsoft releases [The Quill](https://en.wikipedia.org/wiki/The_Quill_(software)) text adventure writing system for the ZX Spectrum, later ported to many other home computers.
 * 1984
     * **HW** Jan. Sinclair releases its [Sinclair QL](https://en.wikipedia.org/wiki/Sinclair_QL) 16 bit personal computer.
     * **HW** Amstrad releases its [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) 8 bit home computer.
+    * **GC** Sierra develops its [AGI](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) graphic adventure writing system for multiple platforms (mainly 16 bit, some 8 bit).
 * 1985
     * **HW** Jun. Atari releases its [Atari 520ST](https://en.wikipedia.org/wiki/Atari_ST) 16 bit personal computer.
     * **HW** Jul. Commodore releases its [Commodore Amiga 1000](https://en.wikipedia.org/wiki/Amiga_1000) 16 bit personal computer.
     * **GC** Incentive releases its [GAC](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) text adventure writing system for the Amstrad CPC, later ported to other home computers.
+* 1986
+    * **HW** Sep. Compaq releases its [Compaq Deskpro 386](https://en.wikipedia.org/wiki/Compaq_Deskpro) 32 bit IBM PC compatible personal computer.
 * 1987
     * **HW** Jun. Commodore releases its [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) 16 bit personal computer.
-    * **HW** Jun. Acorn releases its [Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes) 16 bit personal computer.
+    * **HW** Jun. Acorn releases its [Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes) 32 bit personal computer.
+    * **GC** Oct. Lucasfilm develops its [SCUMM](https://en.wikipedia.org/wiki/SCUMM) graphic adventure writing system for multiple platforms (mainly 16 bit, some 8 bit).
     * **GC** Gilsoft releases its [PAWS](https://en.wikipedia.org/wiki/Professional_Adventure_Writer) text adventure writing system for the ZX Spectrum, later ported to the Amstrad CPC.
+* 1988
+    * **GC** Aventuras AD develops its [DAAD](https://wiki.caad.es/DAAD) text adventure writing system, an evolution of PAWS.
+* 1989
+    * **EV** Activision closes Infocom.
+    * **EV** Level 9 releases its last text adventure, Scapeghost.
+* 1990
+    * **EV** Magnetic Scrolls releases its last text adventure, Wonderland.
+* 1992
+    * **EV** Aventuras AD closes. 
 * 1993
     * **GC** Graham Nelson releases his [Inform](https://en.wikipedia.org/wiki/Inform) text adventure writing system, that compiles to the Z-machine.
 * 2006
-    * **GC** Graham Nelson releases his [Inform 7](https://en.wikipedia.org/wiki/Inform) text adventure writing system, that compiles to the Z-machine..
+    * **GC** Graham Nelson releases his [Inform 7](https://en.wikipedia.org/wiki/Inform) text adventure writing system, that compiles to the Z-machine.
 
 # References
 * [Get Lamp](http://www.getlamp.com/) documentary. [WP](https://en.wikipedia.org/wiki/Get_Lamp).
