@@ -18,9 +18,15 @@
     * **GM** Scott Adams releases [Adventureland](https://en.wikipedia.org/wiki/Adventureland_(video_game)), a text adventure, scaled down version of the Colossal Cave, for the TRS-80.
 * 1979
     * **HW** Nov. Atari releases its [Atari 400 and 800](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8 bit home computers.
+    * **AR** Jul. Scott Adams publishes [An Adventure In Small Computer Game Simulation ](https://mud.co.uk/richard/aaiscgs.htm) about the internals of his text adventure game engine.
+      Adams, S. Creative Computing, pages 90 to 97, August, 1979.
 * 1980
     * **AR** Jul. Scott Adams publishes [Adventureland](https://archive.org/details/softside-magazine-22/page/n35/mode/2up?view=theater), the data and interpreter for his game.
-    Adams, Scott (July 1980). "Adventureland". SoftSide. p. 36.
+      Adams, Scott (July 1980). "Adventureland". SoftSide. p. 36.
+    * **AR** Aug. Ken Reed publishes [Adventure II - an epic game for non-disc systems](http://graemeyeandle.atwebpages.com/advent/kenreed.html), an analysis an specification for a Scott Adams style text adventure engine.
+      Reed, K., 1980: Adventure II - an epic game for non-disc systems. Practical Computing, August 68-75
+    * **AR** Jul. Infocom's Mark Blank and Stu Galley publish [How to Fit a Large Program Into a Small Machine, or How to fit the Great Underground Empire on your desk-top](https://mud.co.uk/richard/htflpism.htm).
+      Blank, M. S. & Galley, S. W. Creative Computing, pages 80 to 87, July, 1980.
 * 1981
     * **HW** Mar. Sinclair releases its [ZX81](https://en.wikipedia.org/wiki/ZX81) 8 bit home computer.
     * **HW** Aug. IBM releases its [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer) 16 bit personal computer. 
@@ -29,7 +35,7 @@
     * **HW** Aug. Commodore releases its [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) 8 bit home computer.
     * **GM** Nov. Melbourne House releases [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit_(1982_video_game)) text adventure.
 * 1983
-    * **GC** Dec. Gilsoft releases [The Quill](https://en.wikipedia.org/wiki/The_Quill_(software)) text adventure writing system for the ZX Spectrum, later ported to many other home computers.
+    * **GC** Dec. Gilsoft releases [The Quill](https://en.wikipedia.org/wiki/The_Quill_(software)) text adventure writing system for the ZX Spectrum, later ported to many other home computers. Graeme Yeandle was inspired by Ken Reed's article.
 * 1984
     * **HW** Jan. Sinclair releases its [Sinclair QL](https://en.wikipedia.org/wiki/Sinclair_QL) 16 bit personal computer.
     * **HW** Amstrad releases its [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) 8 bit home computer.
@@ -63,6 +69,7 @@
 * [Get Lamp](http://www.getlamp.com/) documentary. [WP](https://en.wikipedia.org/wiki/Get_Lamp).
 * [The Interactive Fiction Archive](https://www.ifarchive.org/index.html).
 * [The Digital Antiquarian](https://www.filfre.net/).
+* [The Classic Adventurer](http://classicadventurer.co.uk/).
 
 # TODO
 * colossal cave, adventure, original adventure
