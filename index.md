@@ -1,3 +1,9 @@
+---
+layout: default
+title: "My homepage"
+description: "My projects and interests"
+---
+
 ## Projects
 
 * [Small Scale Experimental Machine (SSEM) emulator](https://github.com/sreguera/SSEM)
