@@ -19,3 +19,4 @@ description: "My projects and interests"
 ## Misc
 
 * [Computer Adventures Tecnology](./advtech/index.html)
+    * [The Scott Adams' Text Adventure Engine](./advtech/sa-tape-engine.html)
