@@ -19,6 +19,10 @@ title: "Computer Adventures Technology"
 * NPCs
 * Words
 * The Parser
+* Messages
+* Variables
+* Rules
+* The Game Loop
 
 ## Adventures in Basic
 * Robert Liddil. Jan 1981. **The Captain 80 Book of BASIC Adventures**. 80-Northwest Publishing. [IA](https://archive.org/details/Captain80BasicAdventures/mode/2up).
