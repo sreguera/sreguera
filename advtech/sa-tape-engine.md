@@ -33,10 +33,10 @@ title: "The Scott Adams Text Adventure Engine"
 # References
 :construction:
 
-* Adams, S. (1979, August). An Adventure in Small Computer Game Simulation. *Creative Computing*, *5*(8), 90-97. https://archive.org/details/creativecomputing-1979-08/page/n91/mode/2up
-* Adams, S. (1980, July). Adventureland. *SoftSide*, 22, 36-49. https://archive.org/details/softside-magazine-22/page/n35/mode/2up
-* Adams, S. (1980, December). Pirate's Adventure. *Byte*, *5*(12), 192-212. https://archive.org/details/byte-magazine-1980-12/page/n193/mode/2up
-* Reed, K. (1980, August). Adventure II - an epic game for non-disc systems. *Practical Computing*, *3*(8), 68-75. http://graemeyeandle.atwebpages.com/advent/kenreed.html
+* Adams, S. (1979, August). An Adventure in Small Computer Game Simulation. *Creative Computing*, *5*(8), 90-97. [Link](https://archive.org/details/creativecomputing-1979-08/page/n91/mode/2up).
+* Adams, S. (1980, July). Adventureland. *SoftSide*, 22, 36-49. [Link](https://archive.org/details/softside-magazine-22/page/n35/mode/2up).
+* Adams, S. (1980, December). Pirate's Adventure. *Byte*, *5*(12), 192-212. [Link](https://archive.org/details/byte-magazine-1980-12/page/n193/mode/2up).
+* Reed, K. (1980, August). Adventure II - an epic game for non-disc systems. *Practical Computing*, *3*(8), 68-75. [Link](http://graemeyeandle.atwebpages.com/advent/kenreed.html).
 
 
 
