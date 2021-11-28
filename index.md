@@ -18,6 +18,6 @@ description: "My projects and interests"
 
 ## Misc
 
-* [Computer Adventures Tecnology](./advtech/index.html) :construction:
+* [Computer Adventures Technology](./advtech/index.html) :construction:
     * [The Scott Adams' Text Adventure Engine](./advtech/sa-tape-engine.html) :construction:
     * [Adventures in Basic](./advtech/adv-basic.md) :construction:
