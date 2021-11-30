@@ -17,7 +17,27 @@ In the style of other books in the 90s, this one talks about the IDE, the langua
 
 * Pascal y Estructuras de Datos. Nell Daly y Susan C. Lilly. McGraw-Hill. 1989. ISBN 8476154046.
 
+## Estructura de la Información
+
+## Sistemas Digitales
+
+## Tecnología Electrónica
+
+## Álgebra
+
+## Cálculo
+
+## Cálculo Numérico
+
 # 2nd year
+
+## Metodología de la Programación
+
+## Ingeniería del Software
+
+## Teoría de la Organización de Empresas
+
+## Equipos y Sistemas de Transmisión de Datos
 
 # 3rd year
 
