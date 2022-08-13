@@ -49,6 +49,10 @@ title: "Free Programming and CS Books"
 *C. A. R. Hoare*  
 [**Link**](http://www.usingcsp.com/)
 
+* **How to Write Parallel Programs: A First Course**  
+*Nicholas Carreiro and David Gelernter*  
+[**Link**](https://zoo.cs.yale.edu/classes/cs424/howto.pdf)
+
 * **Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers**  
 *Leslie Lamport*  
 [**Link**](https://lamport.azurewebsites.net/tla/book.html)
