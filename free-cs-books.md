@@ -69,6 +69,10 @@ title: "Free Programming and CS Books"
 *L. C. Paulson*  
 [**Link**](https://www.cl.cam.ac.uk/~lp15/MLbook/)
 
+* **Smalltalk-80: The Language and its Implementation (blue book)**  
+*Adele Goldberg and David Robson*   
+[**Link**](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf), [**Link to more smalltalk books**](http://stephane.ducasse.free.fr/FreeBooks/)
+
 * **The Implementation of Functional Programming Languages**  
 *Simon L. Peyton Jones*  
 [**Link**](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf)
