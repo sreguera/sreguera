@@ -6,6 +6,77 @@ title: "The Scott Adams Text Adventure Engine"
 # Introduction
 :construction:
 
+# Timeline
+:construction:
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>1976</td>
+    <td>Will Crowther releases the "Original Adventure" for the PDP-10.</td>
+  </tr>
+  <tr>
+    <td rowspan=2>1977</td>
+    <td>Don Woods releases its mods to the "Original Adventure" for the PDP-10.</td>
+  </tr>
+  <tr>
+    <td>Apple, Commodore and Tandy launch the Apple II, Commodore PET and TRS-80 Model I.</td>
+  </tr>
+  <tr>
+    <td>1978</td>
+    <td>Scott Adams publishes "Adventureland" for the TRS-80.</td>
+  </tr>
+  <tr>
+    <td>1979</td>
+    <td>Scott Adams publishes the article "An Adventure in Small Computer Game Simulation" in Creative Computing.</td>
+  </tr>
+  <tr>
+    <td rowspan=4>1980</td>
+    <td>Allan Moluf and Bruce Hanson publish, among friends, an specification of Scott Adams' adventure format.</td>
+  </tr>
+  <tr>
+    <td>Scott Adams publishes the article containing the Basic version of "Adventureland" in Softside.</td>
+  </tr>
+  <tr>
+    <td>Ken Reed publishes the article "Adventure II - an epic game for non-disc systems" in Practical Computing. Ken refs Scott Adams.</td>
+  </tr>  
+  <tr>
+    <td>Scott Adams publishes the article containing the Basic version "Pirate Adventure" in Byte.</td>
+  </tr>
+  <tr>
+    <td rowspan=3>1981</td>
+    <td>Richard Turner and Chris Thornton found Artic Computing and release "Planet of Death". They ref Ken Reed article.</td>
+  </tr>
+  <tr>
+    <td>Trevor Toms publishes "The ZX81 Pocket Book" with a chapter containing an adventure engine. Trevor refs Ken Reed article.</td>
+  </tr>
+  <tr>
+    <td>Allan Moluf and Bruce Hanson release "The Adventure System", an adventure authoring system using Scott Adams format.</td>
+  </tr>
+  <tr>
+    <td>1982</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1983</td>
+    <td>Gilsoft releases "The Quill" authoring system by Graeme Yeandle. Graeme refs Ken Reed article and rev.eng. of Artic games.</td>
+  </tr>
+  <tr>
+    <td>1984</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1985</td>
+    <td>Incentive releases "The GAC" authoring system by Sean Ellis. Sean refs Trevor Toms book.</td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>Gilsoft releases "The PAWS" authoring system, a succesor of "The Quill".</td>
+  </tr>
+</table>
+
 # The Colossal Cave
 :construction:
 
