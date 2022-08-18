@@ -49,7 +49,7 @@ title: "The Scott Adams Text Adventure Engine"
   </tr>
   <tr>
     <td>USA</td>
-    <td>Scott Adams publishes the article containing the Basic version of "Adventureland" in Softside.</td>
+    <td>Scott Adams publishes the article containing the Basic version of "Adventureland", engine and data, in Softside.</td>
   </tr>
   <tr>
     <td>UK</td>
@@ -57,7 +57,7 @@ title: "The Scott Adams Text Adventure Engine"
   </tr>  
   <tr>
     <td>USA</td>
-    <td>Scott Adams publishes the article containing the Basic version of "Pirate Adventure" in Byte.</td>
+    <td>Scott Adams publishes the article containing the Basic version of "Pirate Adventure", engine and data, in Byte.</td>
   </tr>
   <tr>
     <td rowspan=4>1981</td>
@@ -77,13 +77,17 @@ title: "The Scott Adams Text Adventure Engine"
     <td>Allan Moluf and Bruce Hanson release "The Adventure System", an adventure authoring system using Scott Adams format.</td>
   </tr>
   <tr>
-    <td rowspan=2>1982</td>
+    <td rowspan=3>1982</td>
     <td>UK</td>
     <td>Sinclair launches the ZX Spectrum 8-bit computer.</td>
   </tr>
   <tr>
     <td>USA</td>
     <td>Commodore launches the C64 8-bit computer.</td>
+  </tr>
+  <tr>
+    <td>UK</td>
+    <td>Brian Howarth adapts his engine to support Scott Adams format, and will use it in the rest of his Mysterious Adventures series.</td>
   </tr>
   <tr>
     <td rowspan=2>1983</td>
