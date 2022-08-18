@@ -92,7 +92,7 @@ title: "The Scott Adams Text Adventure Engine"
   <tr>
     <td rowspan=2>1983</td>
     <td>UK</td>
-    <td>Gilsoft releases "The Quill" authoring system by Graeme Yeandle. Graeme refs Ken Reed article and rev.eng. of Artic games.</td>
+    <td>Gilsoft releases "The Quill" authoring system by Graeme Yeandle. Graeme refs Ken Reed article and analysis of Artic games.</td>
   </tr>
   <tr>
     <td>USA</td>
@@ -164,7 +164,9 @@ title: "The Scott Adams Text Adventure Engine"
 * Adams, S. (1979, August). An Adventure in Small Computer Game Simulation. *Creative Computing*, *5*(8), 90-97. [Link](https://archive.org/details/creativecomputing-1979-08/page/n91/mode/2up).
 * Adams, S. (1980, July). Adventureland. *SoftSide*, 22, 36-49. [Link](https://archive.org/details/softside-magazine-22/page/n35/mode/2up).
 * Adams, S. (1980, December). Pirate's Adventure. *Byte*, *5*(12), 192-212. [Link](https://archive.org/details/byte-magazine-1980-12/page/n193/mode/2up).
+* Molluf, A. (1980, January). The ADVENTURE Data Base Format. [Link](https://www.filfre.net/misc/ADVDB.TXT).
 * Reed, K. (1980, August). Adventure II - an epic game for non-disc systems. *Practical Computing*, *3*(8), 68-75. [Link](http://graemeyeandle.atwebpages.com/advent/kenreed.html).
-
+* Maher, J. (2013, July). The Quill. *The Digital Antiquarian*. [Link](https://www.filfre.net/2013/07/the-quill/).
+* Toms, T. R. (1981). The ZX81 Pocket Book. [Link](https://worldofspectrum.org/archive/books/zx81-pocket-book-the).
 
 
