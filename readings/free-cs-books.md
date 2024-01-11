@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Free Programming and CS Books"
 ---
 

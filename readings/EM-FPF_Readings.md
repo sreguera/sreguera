@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Functional Programming Fundamentals Readings"
+layout: page
+title: "Functional Programming Fundamentals - Readings"
 ---
 
 # Functional Programming Fundamentals - Readings

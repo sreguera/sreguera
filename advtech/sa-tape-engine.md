@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "The Scott Adams Text Adventure Engine"
 ---
 

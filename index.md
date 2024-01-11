@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: home
 title: "My homepage"
-description: "My projects and interests"
 ---
 
-## Projects
+<!-- ## Projects
 
 * [Small Scale Experimental Machine (SSEM) emulator](https://github.com/sreguera/SSEM)
 * [derp, a derived parameters interpreter](https://github.com/sreguera/derp)
@@ -12,12 +11,12 @@ description: "My projects and interests"
 
 ## Readings
 
-* [Readings from Erik Meijer's course "Functional Programming Fundamentals"](./EM-FPF_Readings.html)
-* [Free programming and CS books](./free-cs-books.html)
-* [Space Standards](./space-standards.html)
+* [Readings from Erik Meijer's course "Functional Programming Fundamentals"](./readings/EM-FPF_Readings.html)
+* [Free programming and CS books](./readings/free-cs-books.html)
+* [Space Standards](./readings/space-standards.html)
 
 ## Misc
 
 * [Computer Adventures Technology](./advtech/index.html) :construction:
     * [The Scott Adams' Text Adventure Engine](./advtech/sa-tape-engine.html) :construction:
-    * [Adventures in Basic](./advtech/adv-basic.md) :construction:
+    * [Adventures in Basic](./advtech/adv-basic.md) :construction: -->

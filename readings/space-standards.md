@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: "Space Standards"
 ---
 
 # Space Standards
 
-* [The Consultative Committe for Space Data Systems (CCSDS)](https://public.ccsds.org)  
+* [The Consultative Committee for Space Data Systems (CCSDS)](https://public.ccsds.org)  
   The CCSDS is a multi-national forum for the development of communications and data systems standards for spaceflight.
 
 * [European Cooperation for Space Standardization (ECSS)](https://ecss.nl/)  
